@@ -1,5 +1,1 @@
-# Rust Practice
-
-## Project
-
-    Guess the number App
+# Guess the number App
